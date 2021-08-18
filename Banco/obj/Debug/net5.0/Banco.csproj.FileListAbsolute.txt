@@ -1,0 +1,16 @@
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\obj\Debug\net5.0\Banco.csprojAssemblyReference.cache
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\obj\Debug\net5.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfoInputs.cache
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\obj\Debug\net5.0\Banco.AssemblyInfo.cs
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\obj\Debug\net5.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\bin\Debug\net5.0\Banco.exe
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\bin\Debug\net5.0\Banco.deps.json
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.json
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\bin\Debug\net5.0\Banco.runtimeconfig.dev.json
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\bin\Debug\net5.0\Banco.dll
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\bin\Debug\net5.0\ref\Banco.dll
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\bin\Debug\net5.0\Banco.pdb
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\obj\Debug\net5.0\Banco.dll
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\obj\Debug\net5.0\ref\Banco.dll
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\obj\Debug\net5.0\Banco.pdb
+C:\Users\Otavio\source\repos\P.O.O\Banco\Banco\obj\Debug\net5.0\Banco.genruntimeconfig.cache
